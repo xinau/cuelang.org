@@ -35,7 +35,7 @@ disableAliases = true
  #images = ["images/project-illustration.png"]
 
 [[menu.main]]
-    name = "Documentation"
+    name = "FOO"
     weight = -101
     url = "/docs/"
 [[menu.main]]
